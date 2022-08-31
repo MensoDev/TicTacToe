@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "src\TicTacToe\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe.PlayGame", "tests\TicTacToe.PlayGame\TicTacToe.PlayGame.csproj", "{AB136CD4-3DAE-4B5A-BEE7-1A9F132C3A73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe.BlazorGame", "src\TicTacToe.BlazorGame\TicTacToe.BlazorGame.csproj", "{2CF4BB55-B23D-4172-94A7-58F3EFCC0602}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{AB136CD4-3DAE-4B5A-BEE7-1A9F132C3A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB136CD4-3DAE-4B5A-BEE7-1A9F132C3A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB136CD4-3DAE-4B5A-BEE7-1A9F132C3A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF4BB55-B23D-4172-94A7-58F3EFCC0602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF4BB55-B23D-4172-94A7-58F3EFCC0602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF4BB55-B23D-4172-94A7-58F3EFCC0602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF4BB55-B23D-4172-94A7-58F3EFCC0602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
